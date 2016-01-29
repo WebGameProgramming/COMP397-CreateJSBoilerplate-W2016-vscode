@@ -1,0 +1,21 @@
+{
+  "name": "CreateJS-BoilerPlate",
+  "homepage": "https://github.com/WebGameProgramming/COMP397-CreateJSBoilerplate-W2016-vscode",
+  "authors": [
+    "aakash <oza.aakash@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
